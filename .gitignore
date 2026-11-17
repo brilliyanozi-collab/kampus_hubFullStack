@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build
+dist/
+**/dist/
+
+# Git backups
+*.git-backup/
+*-backup/
+
+# Logs & Env
+*.log
+.env
+
